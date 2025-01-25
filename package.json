@@ -5,12 +5,15 @@
   "main": "src/index.js",
   "author": "Alon Kaduri <alonk@vi.co>",
   "scripts": {
+    "start": "node src/index.js",
     "test": "jest"
   },
   "devDependencies": {
-    "jest": "^28.1.0"
+    "jest": "^28.1.3",
+    "supertest": "^7.0.0"
   },
   "dependencies": {
-    "axios": "^0.27.2"
+    "axios": "^0.27.2",
+    "express": "^4.21.2"
   }
 }
