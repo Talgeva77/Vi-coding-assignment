@@ -8,6 +8,7 @@ data consistency.
 ## Tools
 
 - Jest for testing
+- Supertest for HTTP assertions
 - Express for server-side logic
 - Node.js for runtime environment
 - Axios for HTTP requests
